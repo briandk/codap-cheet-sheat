@@ -1,7 +1,9 @@
-## How Do I...
+# How Do I...
 
-### Get Data from the Sensor
+## Get data from the sensor
 
-### Filter Out Data I Don't Want
+## Filter out data I don't want
 
-### Hide Data I Don't Need
+## Hide data I don't need
+
+## Draw and fit lines through my data
